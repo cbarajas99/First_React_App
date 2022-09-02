@@ -1,3 +1,7 @@
+# Intro
+
+I wanted to start learning Javascript and React, so I followed along on JavaScripts Mastery's Youtube to create my first React app. (https://www.youtube.com/watch?v=b9eMGE7QtTk&list=WL&index=5). I was always intimitated by JS and React, but I loved how React is more efficient and only focus on updating sections of the page where the changes where made rather than the whole entire page. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
